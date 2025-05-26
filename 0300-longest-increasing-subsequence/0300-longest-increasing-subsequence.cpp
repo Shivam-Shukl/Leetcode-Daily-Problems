@@ -23,10 +23,35 @@ public:
         return dp[index][prevIndex+1]= max(inc,exc);
 
     }
-    int lengthOfLIS(vector<int>& nums) {
+    int solveTab(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,INT_MIN));
-        int prevIndex = -1;
-        return solve(nums,0,prevIndex,dp);
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+
+        // Fill the table from bottom to top
+        for (int index = n-1; index >= 0; index--) {
+            for (int prevIndex = index-1; prevIndex >= -1; prevIndex--) {  // this part is where you lag.
+
+                int notTake = dp[index+1][prevIndex+1];
+                int take = 0;
+                if (prevIndex == -1 || nums[prevIndex] < nums[index]) {
+                    take = 1 + dp[index+1][index+1];
+                }
+
+                dp[index][prevIndex+1] = max(take, notTake);
+            }
+        }
+
+        // The answer is for index = 0 and prevIndex = -1 → shifted by +1
+        return dp[0][0];
+    }
+
+    int lengthOfLIS(vector<int>& nums) {
+
+        // int n = nums.size();
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,INT_MIN));
+        // int prevIndex = -1;
+        // return solve(nums,0,prevIndex,dp);
+
+        return solveTab(nums);
     }
 };
