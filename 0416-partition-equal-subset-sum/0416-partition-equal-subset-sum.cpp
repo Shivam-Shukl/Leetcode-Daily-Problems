@@ -61,6 +61,34 @@ public:
         return dp[n-1][target];
     }
 
+    bool solveSpace(vector<int>& arr, int target) {
+
+        int n =arr.size();
+
+        vector<bool> curr(target+1,0);
+
+        for(int index = 0;index <n;index++)
+        {
+            for(int currSum = target;currSum> 0;currSum--)
+            {
+                curr[0] =1;
+                bool exclude =false;
+                if(index-1 >=0)
+                    exclude = curr[currSum];
+                bool include = false;
+                if(index -1 >= 0 && currSum -arr[index] >=0)
+                    include = curr[currSum-arr[index]];
+
+                if (exclude || include) {
+                    curr[currSum] = 1;
+                } else {
+                    curr[currSum] = 0;
+                }
+            }
+        }
+        return curr[target];
+    }
+
     bool canPartition(vector<int>& nums) {
         int sum = 0;
         for (int i = 0; i < nums.size(); i++) {
@@ -74,7 +102,8 @@ public:
             // vector<vector<int>> dp(n,vector<int>(target+1,-1));
             // return solve(nums,target,n-1,dp);
 
-            return solveTab(nums,target);
+            // return solveTab(nums,target);
+            return solveSpace(nums,target);
         }
     }
 };
