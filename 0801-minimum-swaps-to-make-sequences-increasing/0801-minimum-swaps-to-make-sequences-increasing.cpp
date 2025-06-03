@@ -44,11 +44,11 @@ public:
                     swap(prev1, prev2);
 
                 if (nums1[index] > prev1 && nums2[index] > prev2)
-                    ans = solve(nums1, nums2, index + 1, 0, dp);
+                    ans = dp[index+1][0];
 
                 // swap
                 if (nums1[index] > prev2 && nums2[index] > prev1)
-                    ans = min(ans, 1 + solve(nums1, nums2, index + 1, 1, dp));
+                    ans = min(ans, 1 + dp[index+1][1]);
 
                 dp[index][swapped] = ans;
             }
