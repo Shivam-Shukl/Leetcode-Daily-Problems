@@ -1,60 +1,34 @@
 class Solution {
 public:
-    int getMax(vector<int>& arr,int i,int j)
+    int solve(vector<int>&arr, map<pair<int,int>,int> &maxi, int left , int right, vector<vector<int>> &dp)
     {
-        int ans = 0;
-        for(int k = i; k <= j; k++)
+        if(left == right)
         {
-            ans = max(ans, arr[k]);
+            return 0;
         }
-        return ans;
-    }
-
-    int solveRec(int i, int j, vector<int>& arr)
-    {
-        if(i == j)
+        if(dp[left][right] != -1)
         {
-            return 0;  // only one leaf, no cost to combine
+            return dp[left][right];
         }
-
         int ans = INT_MAX;
-        for(int k = i; k < j; k++)
+        for(int i = left ;i<right;i++)
         {
-            int val = getMax(arr, i, k) * getMax(arr, k + 1, j);
-            long long total = 1LL * val + solveRec(i, k, arr) + solveRec(k + 1, j, arr);
-            ans = min(ans, (int)total);
+            ans = min(ans,maxi[{left,i}] * maxi[{i+1,right}] + solve(arr,maxi,left,i,dp) + solve(arr,maxi,i+1,right,dp));
         }
-        return ans;
+        return dp[left][right] = ans;
     }
-
-    int solveMemo(int i, int j, vector<int>& arr,vector<vector<int>> &dp)
-    {
-        if(i == j)
-        {
-            return 0;  // only one leaf, no cost to combine
-        }
-
-        if(dp[i][j] != -1)
-        {
-            return dp[i][j];
-        }
-
-        int ans = INT_MAX;
-        for(int k = i; k < j; k++)
-        {
-            int val = getMax(arr, i, k) * getMax(arr, k + 1, j);
-            long long total = 1LL * val + solveMemo(i, k, arr,dp) + solveMemo(k + 1, j, arr,dp);
-            ans = min(ans, (int)total);
-        }
-        return dp[i][j] = ans;
-    }
-
     int mctFromLeafValues(vector<int>& arr) {
+        map<pair<int,int>,int> maxi;
         int n= arr.size();
-        int i = 0;
-        int j = n- 1;
         vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        // return solveRec(i, j, arr);
-        return solveMemo(i,j,arr,dp);
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=i;j<n;j++)
+            {
+                maxi[{i,j}] = max(arr[j] , maxi[{i,j-1}]);
+            }
+        }
+        return solve(arr,maxi,0,arr.size()-1,dp);
     }
 };
