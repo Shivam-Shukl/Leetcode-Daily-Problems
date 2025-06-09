@@ -55,6 +55,39 @@ public:
         
     }
 
+    int solveSpace(vector<int>& prices,int k)
+    {
+
+        int n= prices.size();
+
+        vector<int> curr(2*k+1, 0);
+        vector<int> next(2*k+1, 0);
+
+        for(int index = n-1;index >= 0;index--)
+        {
+            for(int operationNo = 2*k-1;operationNo >=0;operationNo--)
+            {
+                int profit = 0;
+                if(operationNo %2 == 0)
+                {
+                    int buykaro = -prices[index] + next[operationNo+1];
+                    int skipkaro =  next[operationNo];
+                    profit = max(buykaro, skipkaro);
+                }
+                else{
+                    int sellkaro = prices[index] +  next[operationNo+1];;
+                    int skipkaro =  next[operationNo];
+                    profit = max(sellkaro, skipkaro);
+                }
+                curr[operationNo]=profit;
+            }
+            curr = next;
+        }
+        return curr[0];
+        
+    }
+
+
     int maxProfit(int k, vector<int>& prices) {
 
         // int n= prices.size();
@@ -65,5 +98,7 @@ public:
         // return solve(0,0,k,prices,dp);
 
         return solveTab(prices,k);
+
+        // return solveSpace(prices,k);
     }
 };
