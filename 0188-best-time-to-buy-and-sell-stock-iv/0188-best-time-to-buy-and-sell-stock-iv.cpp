@@ -74,7 +74,7 @@ public:
                         profit = max(buykaro, skipkaro);
                     } else {
                         int sellkaro = 0;
-                        if (val + 1 <= 2) {  // Only sell if we have transactions left
+                        if (val + 1 <= k) {  // Only sell if we have transactions left
                             sellkaro = prices[index] + next[1][val + 1];
                         }
                         int skipkaro = next[0][val];
