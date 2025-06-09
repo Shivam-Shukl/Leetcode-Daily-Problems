@@ -57,10 +57,46 @@ public:
         return dp[0][1][0];
     }
 
+    int solveSpace(vector<int>& prices , int k) {
+        int n = prices.size();
+      
+        vector<vector<int>> curr(2, vector<int>(k+1, 0));
+        vector<vector<int>> next(2, vector<int>(k+1, 0));
+
+        for (int index = n - 1; index >= 0; index--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int val = 0; val <= k; val++) {  
+                    int profit = 0;
+
+                    if (buy == 1) {
+                        int buykaro = -prices[index] + next[0][val];
+                        int skipkaro = next[1][val];
+                        profit = max(buykaro, skipkaro);
+                    } else {
+                        int sellkaro = 0;
+                        if (val + 1 <= 2) {  // Only sell if we have transactions left
+                            sellkaro = prices[index] + next[1][val + 1];
+                        }
+                        int skipkaro = next[0][val];
+                        profit = max(sellkaro, skipkaro);
+                    }
+
+                    curr[buy][val] = profit;
+                }
+                next = curr;
+            }
+        }
+
+        return curr[1][0];
+    }
+
     int maxProfit(int k, vector<int>& prices) {
         // int n = prices.size();
         // vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(k+1, INT_MIN)));
         // return solve(prices, 1, 0, 0,k, dp);
-        return solveTab(prices,k);
+
+        // return solveTab(prices,k);
+
+        return solveSpace(prices,k);
     }
 };
