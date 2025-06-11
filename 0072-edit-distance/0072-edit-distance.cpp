@@ -21,9 +21,44 @@ public:
         }
     }
 
-    int minDistance(string word1, string word2) {
+    int solveTab(string& word1, string& word2) 
+    {
         int n = word1.size(), m = word2.size();
         vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
-        return solve(word1, word2, 0, 0, dp);
+
+        for(int ind2 = 0;ind2 <= m;ind2++)
+        {
+            dp[n][ind2] = word2.size() - ind2;
+        }
+        for(int ind1 = 0;ind1 <= n;ind1++ )
+        {
+            dp[ind1][m] = word1.size() - ind1;
+        }
+        
+
+        for(int ind1 = n-1;ind1>=0;ind1--)
+        {
+            for(int ind2 = m-1;ind2>=0 ;ind2--)
+            {
+                if (word1[ind1] == word2[ind2]) {
+                    dp[ind1][ind2] = dp[ind1+1][ind2+1];
+                } else {
+                    int insertOp = 1 + dp[ind1][ind2+1]; 
+                    int deleteOp = 1 + dp[ind1+1][ind2];     
+                    int replaceOp = 1 + dp[ind1+1][ind2+1];
+
+                    dp[ind1][ind2] = min({insertOp, deleteOp, replaceOp});
+                }
+            }
+        }
+        return dp[0][0];
+    }
+
+    int minDistance(string word1, string word2) {
+        // int n = word1.size(), m = word2.size();
+        // vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        // return solve(word1, word2, 0, 0, dp);
+
+        return solveTab(word1,word2);
     }
 };
