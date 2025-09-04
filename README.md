@@ -20,6 +20,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
