@@ -33,6 +33,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
