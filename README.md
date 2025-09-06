@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -13,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
