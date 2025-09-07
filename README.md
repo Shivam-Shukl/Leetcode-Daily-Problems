@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
