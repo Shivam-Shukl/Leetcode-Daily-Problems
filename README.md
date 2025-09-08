@@ -86,4 +86,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
