@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -89,5 +91,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
