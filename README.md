@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -92,5 +93,10 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
