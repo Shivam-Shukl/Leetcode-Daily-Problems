@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
