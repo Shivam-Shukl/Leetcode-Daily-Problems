@@ -72,6 +72,7 @@
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@
 | [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
