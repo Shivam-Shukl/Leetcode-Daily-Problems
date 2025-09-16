@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
