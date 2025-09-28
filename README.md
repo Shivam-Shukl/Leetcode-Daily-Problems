@@ -22,6 +22,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
+| [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -42,6 +43,7 @@
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -60,6 +62,7 @@
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+| [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
@@ -116,6 +119,7 @@
 | [0011-container-with-most-water](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
