@@ -187,4 +187,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
