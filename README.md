@@ -32,6 +32,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
