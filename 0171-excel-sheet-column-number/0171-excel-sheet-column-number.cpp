@@ -11,12 +11,10 @@ public:
     int titleToNumber(string s) {
         int n = s.size();
         int ans = 0;
-        ans += s[n-1] - 'A'+1;
-        for(int i=n-2;i>=0;i--){
+        for(int i=n-1;i>=0;i--){
             char ch = s[i];
             int idx = n-1 - i;
             int val = ch - 'A'+1;
-           
             ans = ans + solve(idx,val);
         }
         return ans;
