@@ -62,6 +62,7 @@
 | [3336-water-bottles-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
