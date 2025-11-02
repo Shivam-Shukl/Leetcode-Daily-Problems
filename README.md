@@ -28,6 +28,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -199,6 +200,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
@@ -214,4 +216,8 @@
 | [1827-invalid-tweets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2024-calculate-special-bonus) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
