@@ -16,17 +16,15 @@ public:
             }
             
             if (s[i] == p[j]) {
-                cout<<"Inside j and i"<<j<<" "<<i<<"->"<<s[i]<<endl;
+               
                 int ind =0;
                 int pre = i;
                 while (i < n && j < m && s[i] == p[j]) {
-                    cout<<"true"<<endl;
+                 
                     i++, j++;
-                    ind++;
                 }
-                cout<<"ind count"<<ind<<"and"<<i<<endl;
+                
                 if (p[j] == '*') {
-                    cout<<"true--"<<endl;
                     j++;
                     break;
                 } else {
@@ -34,7 +32,7 @@ public:
                     i = pre+1;
                 }
             }else {
-                cout<<"yes";
+              
                 i++;
             }
         }
@@ -45,11 +43,11 @@ public:
                 int pre = i;
                 while (i < n && j < m && s[i] == p[j]) {
                     i++, j++;
-                    cout<<"true"<<endl;
+                   
                 }
                 if (j == m) {
                     ans = true;
-                    cout<<"true--"<<endl;
+                    
                 } else {
                     j = ind;
                     i = pre+1;
