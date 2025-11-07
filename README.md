@@ -188,6 +188,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3684-substring-matching-pattern](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3684-substring-matching-pattern) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -235,4 +236,8 @@
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3227-find-missing-and-repeated-values) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
