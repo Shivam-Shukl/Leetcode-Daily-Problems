@@ -240,4 +240,12 @@
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3684-substring-matching-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
