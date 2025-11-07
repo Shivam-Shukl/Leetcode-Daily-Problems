@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -258,4 +259,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
