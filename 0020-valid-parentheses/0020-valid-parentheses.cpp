@@ -1,31 +1,46 @@
 class Solution {
 public:
-    bool isOpen(char ch){
-        return (ch == '(' || ch == '[' || ch == '{');
-    }
-    bool isCond(char ch1 , char ch2){
-        if((ch1 == '(' && ch2 == ')') || (ch1 == '[' && ch2 == ']') || ( ch1 == '{' && ch2 == '}') ){
-            return true;
-        }else{
-            return false;
-        }
-    }
     bool isValid(string s) {
-        stack<int> st;
-        int n = s.size();
-        for(int i=0;i<n;i++){
-            if(isOpen(s[i])){
-                st.push(s[i]);
-            }else{
-                if(st.empty()) return false;
-                char ch1 = st.top();
-                if(isCond(ch1, s[i])){
-                    st.pop();
-                }else{
+
+        stack <char> Sta;
+        int n = s.length();
+
+        for(int i=0 ;i<n;i++)
+        {
+            char C= s[i];
+
+            // if opening bracket than push in the stack 
+
+            if(C =='(' || C =='{' || C =='[')
+            {
+                Sta.push(C);
+            }
+            // if closing bracket than check and pop 
+            else
+            {
+                if(!Sta.empty())
+                {
+                    char top = Sta.top();
+                    if( (C==')' && top == '(') || ( C=='}' && top == '{') || (C==']' && top == '[') )
+                    {
+                        Sta.pop();
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+                else
+                {
                     return false;
                 }
             }
+
         }
-        return st.empty();
+        if(Sta.empty())
+        return true;
+        else 
+        return false;
+        
     }
 };
