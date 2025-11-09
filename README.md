@@ -47,6 +47,7 @@
 | [0022-generate-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
@@ -57,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -232,6 +234,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Database
 |  |
