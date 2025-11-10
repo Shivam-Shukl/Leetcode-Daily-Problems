@@ -65,6 +65,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
