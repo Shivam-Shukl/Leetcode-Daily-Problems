@@ -30,6 +30,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -97,6 +98,7 @@
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -175,6 +177,7 @@
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting Sort
 |  |
@@ -221,11 +224,13 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
@@ -296,4 +301,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
