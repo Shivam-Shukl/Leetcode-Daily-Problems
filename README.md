@@ -22,6 +22,7 @@
 | [0204-count-primes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
@@ -121,6 +122,7 @@
 | [0141-linked-list-cycle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
