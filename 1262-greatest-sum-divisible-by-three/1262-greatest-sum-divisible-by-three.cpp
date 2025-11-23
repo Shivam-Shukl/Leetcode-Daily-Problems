@@ -1,23 +1,34 @@
-int dp[40000][3];
-
 class Solution {
 public:
-    static int f(int i, int mod, vector<int>& nums){
-        if (i<0) return mod==0? 0:-1e9; 
-        if (dp[i][mod]!=-1) return dp[i][mod];
+    int maxSumDivThree(vector<int>& nums) {
+        // Use v[0], v[1], v[2] to represent a, b, c respectively.
+        vector<int> v[3];
+        for (int num : nums) {
+            v[num % 3].push_back(num);
+        }
+        sort(v[1].begin(), v[1].end(), greater<int>());
+        sort(v[2].begin(), v[2].end(), greater<int>());
+        int tot = accumulate(nums.begin(), nums.end(), 0);
+        int remove = INT_MAX;
 
-        const int x=nums[i];
-        int modPrev=mod-x%3; modPrev+=(-(modPrev<0)) & 3;
+        if (tot % 3 == 0) {
+            remove = 0;
+        } else if (tot % 3 == 1) {
+            if (v[1].size() >= 1) {
+                remove = min(remove, v[1].end()[-1]);
+            }
+            if (v[2].size() >= 2) {
+                remove = min(remove, v[2].end()[-2] + v[2].end()[-1]);
+            }
+        } else {
+            if (v[1].size() >= 2) {
+                remove = min(remove, v[1].end()[-2] + v[1].end()[-1]);
+            }
+            if (v[2].size() >= 1) {
+                remove = min(remove, v[2].end()[-1]);
+            }
+        }
 
-        int take=x+f(i-1, modPrev, nums);
-        int skip=f(i-1, mod, nums);
-
-        return dp[i][mod]=max(take, skip);
-    }
-
-    static int maxSumDivThree(vector<int>& nums) {
-        const int n=nums.size();
-        memset(dp, -1, sizeof(int)*n*3);
-        return max(0, f(n-1, 0, nums));
+        return tot - remove;
     }
 };
