@@ -31,8 +31,18 @@ public:
         }
         return dp[n];
     }
+    int solveSpace(int n){
+        int pre = 1;
+        int curr= 1;
+        for(int i =2;i<=n;i++){
+            int cal = curr + pre;
+            pre = curr;
+            curr = cal;
+        }
+        return curr;
+    }
     int climbStairs(int n) {
         
-        return solveBottomUp(n);
+        return solveSpace(n);
     }
 };
