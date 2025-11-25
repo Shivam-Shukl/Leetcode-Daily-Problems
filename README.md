@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -63,6 +64,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
