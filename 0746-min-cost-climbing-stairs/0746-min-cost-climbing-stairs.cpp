@@ -26,8 +26,19 @@ public:
         }
         return min(dp[n-1],dp[n-2]);
     }
+    int opt(vector<int>& cost){
+        int n = cost.size();
+        int prev = cost[0];
+        int curr = cost[1];
+        for(int i = 2;i<n;i++){
+            int ele = cost[i] + min(curr, prev);
+            prev = curr;
+            curr = ele;
+        }
+        return min(curr,prev);
+    }
     int minCostClimbingStairs(vector<int>& cost) {
         
-        return solveBottomUp(cost);
+        return opt(cost);
     }
 };
