@@ -9,11 +9,18 @@ public:
         }
         return dp[n];
     }
-    // int solve2(int n){
-    //     int
-    // }
+    int solve2(int n){
+        int prev = 0;
+        int curr = 1;
+        for(int i = 2;i<=n;i++){
+            int ele = curr + prev;
+            prev = curr;
+            curr = ele;
+        }
+        return curr;
+    }
     int fib(int n) {
         if(n==0) return 0;
-        return solve(n);
+        return solve2(n);
     }
 };
