@@ -82,6 +82,7 @@
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
