@@ -28,6 +28,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -86,6 +87,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -162,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -293,6 +296,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3227-find-missing-and-repeated-values) |
