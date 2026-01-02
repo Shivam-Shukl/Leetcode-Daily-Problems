@@ -294,6 +294,7 @@
 | [0595-big-countries](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0620-not-boring-movies) |
 | [1158-market-analysis-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1158-market-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1908-recyclable-and-low-fat-products) |
