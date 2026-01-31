@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
@@ -257,6 +258,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
