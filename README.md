@@ -200,6 +200,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -353,6 +354,7 @@
 | [0022-generate-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0401-binary-watch) |
 ## Number Theory
 |  |
 | ------- |
