@@ -121,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0761-special-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0344-reverse-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0761-special-binary-string) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
