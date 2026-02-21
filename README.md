@@ -90,6 +90,7 @@
 | [0367-valid-perfect-square](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -205,6 +206,7 @@
 | [0190-reverse-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
