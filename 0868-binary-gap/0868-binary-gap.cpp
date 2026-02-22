@@ -2,33 +2,21 @@ class Solution {
 public:
     int binaryGap(int no) {
 
-        string s = "";
+        int ans = 0;
+        int pre = -1;
+        int cnt = 0;
         while (no) {
             int rem = no % 2;
-            no = no / 2;
-            s += (rem + '0');
-        }
-
-        int i = 0, n = s.size();
-        int ans = 0;
-
-        while (i < n) {
-            if (s[i] == '1') {
-                int j = i + 1;
-                // find the next 1 index;
-                while (j < n && s[j] == '0') {
-                    j++;
+            if (rem == 1) {
+                if (pre != -1) {
+                    ans = max(ans, cnt - pre);
                 }
-
-                if (j < n && s[j] == '1') {
-                    ans = max(ans, j - i);
-                }
-                i = j;
-
-            } else {
-                i++;
+                pre = cnt;
             }
+            no = no / 2;
+            cnt++;
         }
+
         return ans;
     }
 };
