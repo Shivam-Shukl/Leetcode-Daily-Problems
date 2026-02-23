@@ -178,6 +178,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -209,6 +210,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
@@ -262,6 +264,7 @@
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -383,4 +386,12 @@
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
