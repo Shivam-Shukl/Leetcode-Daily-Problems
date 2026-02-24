@@ -401,14 +401,21 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
