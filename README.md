@@ -14,6 +14,7 @@
 | [0045-jump-game-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@
 | [0020-valid-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2625-increment-submatrices-by-one) |
@@ -366,6 +369,7 @@
 | [0022-generate-parentheses](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0401-binary-watch) |
 ## Number Theory
 |  |
@@ -401,6 +405,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
