@@ -100,6 +100,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -217,6 +218,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
@@ -310,6 +312,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
