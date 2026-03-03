@@ -278,6 +278,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -367,6 +369,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
