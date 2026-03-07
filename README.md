@@ -77,6 +77,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 ## Math
 |  |
@@ -285,6 +286,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3684-substring-matching-pattern](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3684-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Memoization
 |  |
