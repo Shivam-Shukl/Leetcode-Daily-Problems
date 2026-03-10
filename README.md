@@ -81,6 +81,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2625-increment-submatrices-by-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
