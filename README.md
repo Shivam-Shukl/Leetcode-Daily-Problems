@@ -248,6 +248,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting Sort
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -452,4 +454,16 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
