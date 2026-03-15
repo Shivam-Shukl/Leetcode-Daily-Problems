@@ -106,6 +106,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1622-fancy-sequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -262,6 +263,7 @@
 | [0155-min-stack](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1622-fancy-sequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -473,4 +475,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
