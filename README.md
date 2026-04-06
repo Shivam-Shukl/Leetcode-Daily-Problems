@@ -456,6 +456,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -466,6 +467,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -473,6 +475,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -482,4 +485,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1622-fancy-sequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
