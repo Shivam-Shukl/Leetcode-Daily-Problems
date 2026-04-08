@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -134,6 +135,7 @@
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0761-special-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -168,6 +170,7 @@
 | [0189-rotate-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0696-count-binary-substrings) |
@@ -185,6 +188,7 @@
 | [0141-linked-list-cycle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
