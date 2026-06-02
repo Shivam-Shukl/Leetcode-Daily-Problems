@@ -22,7 +22,6 @@ public:
             }
         }
 
-        cout << endl;
 
         for (int i = 0; i < m; i++) {
             int time = waterStartTime[i] + waterDuration[i];
