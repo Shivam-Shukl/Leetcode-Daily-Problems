@@ -10,7 +10,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             int time = landStartTime[i] + landDuration[i];
-            cout << "time at " << i << " " << time << ",";
+            
             for (int j = 0; j < m; j++) {
                 int value = 0;
                 if(waterStartTime[j] <= time){
@@ -26,7 +26,7 @@ public:
 
         for (int i = 0; i < m; i++) {
             int time = waterStartTime[i] + waterDuration[i];
-            cout << "time at " << i << " " << time << ",";
+         
             for (int j = 0; j < n; j++) {
                 int value = 0;
                 if(landStartTime[j] <= time){
