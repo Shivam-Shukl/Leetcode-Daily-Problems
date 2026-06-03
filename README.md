@@ -65,6 +65,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -334,6 +338,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
 | ------- |
