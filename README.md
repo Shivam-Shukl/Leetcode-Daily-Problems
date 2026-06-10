@@ -90,6 +90,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3830-find-closest-person](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
