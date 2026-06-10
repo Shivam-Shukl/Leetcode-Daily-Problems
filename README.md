@@ -49,6 +49,7 @@
 | [1980-find-unique-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -212,6 +213,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -476,6 +478,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -490,6 +493,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
