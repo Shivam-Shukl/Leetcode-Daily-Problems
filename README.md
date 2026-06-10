@@ -69,6 +69,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
@@ -277,6 +278,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting Sort
 |  |
 | ------- |
