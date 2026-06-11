@@ -1,44 +1,33 @@
 class Solution {
 public:
-
-    void depth(unordered_map<int, vector<int>>& adj,
-               vector<bool>& vis,
-               int curr,
-               int source,
-               int& ans) {
-
+    // Pass 'parent' instead of a 'vis' array
+    void depth(vector<vector<int>>& adj, int curr, int source, int parent, int& ans) {
         ans = max(ans, curr);
-        vis[source] = true;
 
         for (int ele : adj[source]) {
-            if (!vis[ele]) {
-                depth(adj, vis, curr + 1, ele, ans);
+            if (ele != parent) { // Only skip if it's the node we just came from
+                depth(adj, curr + 1, ele, source, ans);
             }
         }
     }
 
     long long power(long long base, long long exp, long long mod) {
         long long res = 1;
-
         while (exp > 0) {
             if (exp & 1)
                 res = (res * base) % mod;
-
             base = (base * base) % mod;
             exp >>= 1;
         }
-
         return res;
     }
 
     int assignEdgeWeights(vector<vector<int>>& edges) {
-        
         const int MOD = 1000000007; 
-
         int n = edges.size() + 1;
-        vector<bool> vis(n + 1, false);
-
-        unordered_map<int, vector<int>> adj;
+        
+        // Optimization: Use a vector of vectors instead of unordered_map
+        vector<vector<int>> adj(n + 1);
 
         for (int i = 0; i < n - 1; i++) {
             int u = edges[i][0];
@@ -49,9 +38,9 @@ public:
         }
 
         int ans = 0;    
-        depth(adj, vis, 0, 1, ans);
+        // 0 is the initial depth, 1 is the source node, -1 is the dummy parent
+        depth(adj, 0, 1, -1, ans);
 
-        
         if (ans <= 1)
             return 1;
         else
