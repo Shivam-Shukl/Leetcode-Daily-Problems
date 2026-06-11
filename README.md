@@ -128,6 +128,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -481,6 +482,7 @@
 | [0101-symmetric-tree](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 | [0210-course-schedule-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
