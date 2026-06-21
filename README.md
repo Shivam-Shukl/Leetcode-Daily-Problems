@@ -190,6 +190,7 @@
 | [0392-is-subsequence](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0696-count-binary-substrings) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -424,6 +425,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
