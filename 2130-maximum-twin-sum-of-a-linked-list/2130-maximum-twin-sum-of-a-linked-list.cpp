@@ -11,19 +11,32 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        vector<int> v; 
+        int n = 0;
         ListNode* temp = head;
-        while(temp){
-            int value = temp -> val;
-            v.push_back(value);
-            temp = temp-> next;
+        while (temp) {
+            n++;
+            temp = temp->next;
         }
-        int n = v.size();
+        temp = head;
+        for (int i = 0; i < n / 2; i++) {
+            temp = temp->next;
+        }
+        ListNode* prev = NULL;
+        while (temp) {
+            ListNode* dump = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = dump;
+        }
+        temp = head;
         int ans = INT_MIN;
-        for(int i =0;i<= (n/2)-1;i++){
-            int sum = v[n-1-i] + v[i];
-            ans = max(sum , ans);
+        while (prev) {
+            int sum = prev->val + temp->val;
+            ans = max(ans, sum);
+            prev = prev->next;
+            temp = temp->next;
         }
+
         return ans;
     }
 };
