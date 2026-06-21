@@ -21,7 +21,7 @@ public:
         for (int i = 0; i < n / 2 - 1; i++) {
             temp = temp->next;
         }
-        cout<<temp -> val;
+       
         if(temp -> next == NULL){
             return NULL;
         }else{
