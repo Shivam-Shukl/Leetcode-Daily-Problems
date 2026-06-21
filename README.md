@@ -331,6 +331,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1980-find-unique-binary-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3684-substring-matching-pattern](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3684-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
@@ -381,6 +382,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
