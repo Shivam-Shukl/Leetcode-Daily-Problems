@@ -214,6 +214,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -317,6 +319,7 @@
 | [0696-count-binary-substrings](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0761-special-binary-string) |
 | [0837-most-common-word](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0837-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
