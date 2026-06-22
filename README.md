@@ -45,6 +45,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1980-find-unique-binary-string](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -155,6 +156,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -278,6 +280,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shivam-Shukl/Leetcode-Daily-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
